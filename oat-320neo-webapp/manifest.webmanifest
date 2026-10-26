@@ -1,0 +1,24 @@
+{
+  "name": "OAT / Altitude Profile",
+  "short_name": "OAT Profile",
+  "description": "Offline interactive recreation of the supplied OAT altitude profile chart",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071522",
+  "theme_color": "#102c43",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
